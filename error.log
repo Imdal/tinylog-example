@@ -1,0 +1,10 @@
+2020-03-28 19:50:51 [main] pkg.main.main()
+ERROR: This is an ERROR message
+2020-03-28 19:50:51 [main] pkg.main.main()
+ERROR: Something is wrong: java.lang.RuntimeException: Oops
+	at pkg.main.main(main.java:15)
+2020-03-28 19:51:26 [main] pkg.main.main()
+ERROR: This is an ERROR message
+2020-03-28 19:51:26 [main] pkg.main.main()
+ERROR: Something is wrong: java.lang.RuntimeException: Oops
+	at pkg.main.main(main.java:15)
